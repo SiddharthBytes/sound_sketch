@@ -5,7 +5,7 @@ from music21 import stream, note
 
 st.title('Sound Sketch')
 st.write('upload your mp3 or .wav file and get the music sheet of audio')
-st.image('C:\\Users\\naikk\\python\\hackclub\\future\\sound_sketch\\ai-generated-colorful-music-background_731790-25310.avif',use_container_width=True)
+st.image('https://wallpapercave.com/wp/wp11882246.jpg')
 file=st.file_uploader('please upload your mp3 or .wav file here',
                       type=['mp3','wav'])
 notes_sheet=[]
