@@ -38,3 +38,4 @@ i need users to report flaws <br>
 i need contributors <br>
 i need help of people who have suggestions<br>
 i need people who knows how to resolve a certain issue <br>
+and people who help me and guide me by any mean
