@@ -6,7 +6,7 @@ this is a prototype of Soundsketch app that takes mp3 or wav file and give music
 <h2>this is for whom</h2>h2
 this for people who want to get a musicsheet from a audio 
 <h2>demo</h2>
-<a href="https://soundsketch.voidaik.hackclub.app/">
+<a href="https://soundsketch.voidaik.hackclub.app/">visit it</a>
 <h2>things used to create it</h2>
 python<br>
 librosa<br>
