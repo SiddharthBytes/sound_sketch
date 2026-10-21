@@ -12,6 +12,7 @@ import uuid
 
 #upper line of ocde imports all esstial library
 app,rt=fast_app()
+application = app
 
 OUTPUT_DIR=Path("generated")
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -161,6 +162,9 @@ def download(file_id: str):
     )
 
 
-serve()# serve serveing
+if __name__ == "__main__":
+    serve()
+
+# serve serveing
 # frequency is wriiten in hz
 #its my first project written in fasthtml so give me feedback
