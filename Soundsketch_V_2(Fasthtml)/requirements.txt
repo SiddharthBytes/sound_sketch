@@ -2,3 +2,4 @@
 python-fasthtml
 librosa
 music21
+starlette
